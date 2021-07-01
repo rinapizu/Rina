@@ -27,4 +27,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.```
 
+
+
 Lisans için ayrı bir depo açmamın bir sebebi var ancak söylemeye gerek var mı bilmem, [Buradan](https://github.com/justlikebtw/Rina_Lisans/blob/main/LICENSE) ulaşabilirsiniz.
