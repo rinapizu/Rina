@@ -5,7 +5,8 @@ Ek olarak bu template'in lisans'ı vardır, bir topluluk sunucusu açabilirsiniz
 
 [Hazır Sunucu](https://discord.new/fbTp77n8RScu)
 
-```MIT License
+```
+MIT License
 
 Copyright (c) 2021 justlikebtw
 
@@ -26,7 +27,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.```
-
-
 
 Lisans için ayrı bir depo açmamın bir sebebi var ancak söylemeye gerek var mı bilmem, [Buradan](https://github.com/justlikebtw/Rina_Lisans/blob/main/LICENSE) ulaşabilirsiniz.
